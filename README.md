@@ -43,9 +43,6 @@ Vision Mate is built as an affordable and portable smart walking aid that enhanc
 
 ---
 
-## 📷 Prototype Preview
-![Vision Mate](images/vision-mate.jpg)
-
 
 ---
 
