@@ -44,7 +44,5 @@ Vision Mate is built as an affordable and portable smart walking aid that enhanc
 ---
 
 
----
-
 ## 👨‍💻 Author
 **Barath**
